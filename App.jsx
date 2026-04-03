@@ -370,7 +370,7 @@ function Contact() {
           </p>
 
           <div className="contact-list">
-            <div>📞 (800) 600-4631</div>
+            <div>📞 (806) 600-4631</div>
             <div>✉️ bharathputo@gmail.com</div>
             <div>📍 USA</div>
           </div>
@@ -422,9 +422,9 @@ function Footer() {
 
         <div>
           <h4>Contact</h4>
-          <a href="#contact">hello@abc.com</a>
-          <a href="#contact">(800) 555-0123</a>
-          <a href="#contact">New York, NY</a>
+          <a href="#contact">bharathputo@gmail.com</a>
+          <a href="#contact">(806) 555-0123</a>
+          <a href="#contact">USA</a>
         </div>
       </div>
       <div className="footer-bottom">
