@@ -423,7 +423,7 @@ function Footer() {
         <div>
           <h4>Contact</h4>
           <a href="#contact">bharathputo@gmail.com</a>
-          <a href="#contact">(806) 555-0123</a>
+          <a href="#contact">(806) 600-4631</a>
           <a href="#contact">USA</a>
         </div>
       </div>
