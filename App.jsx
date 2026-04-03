@@ -370,9 +370,9 @@ function Contact() {
           </p>
 
           <div className="contact-list">
-            <div>📞 (800) 555-0123</div>
-            <div>✉️ hello@abc.com</div>
-            <div>📍 New York, NY</div>
+            <div>📞 (800) 600-4631</div>
+            <div>✉️ bharathputo@gmail.com</div>
+            <div>📍 USA</div>
           </div>
         </div>
 
